@@ -4,8 +4,8 @@
 *Iran University of Science and Technology - Faculty of Computer Engineering*
 
 **Authors:**
-* Mohammad Darmanloo (99521262)
-* Seyed Mohammad Ali Fakhari (99521496)
+* Seyed Mohammad Ali Fakhari
+* Mohammad Darmanloo
 
 **Instructor:** Dr. Mohammadi
 
